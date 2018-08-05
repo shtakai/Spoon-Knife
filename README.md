@@ -1,5 +1,7 @@
 ### Well hello there!
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/Spoon-Knife.svg)](https://www.guardrails.io)
+
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
 OCTCAT
